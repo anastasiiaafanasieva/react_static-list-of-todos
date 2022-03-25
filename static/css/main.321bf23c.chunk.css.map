@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.scss"],"names":[],"mappings":"AAAA,QACE,WAAY,CACb,WAGC,SAAU","file":"main.321bf23c.chunk.css","sourcesContent":[".active {\n  color: green;\n}\n\n.completed {\n  color: red;\n}\n"]}
